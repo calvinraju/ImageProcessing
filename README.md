@@ -29,10 +29,10 @@ By working directly with pixel data, it shows how image transformations can be a
 
 ## Project Structure
 Image-Processing-MIPS
-├── ImageProcessing.s # MIPS assembly source code
-├── lenna.pgm # Test input image (512x512 grayscale)
-├── textfile.pgm # Text-based PGM file used for blur/encryption tests
-└── README.md # Project documentation
+ImageProcessing.s # MIPS assembly source code
+lenna.pgm # Test input image (512x512 grayscale)
+textfile.pgm # Text-based PGM file used for blur/encryption tests
+README.md # Project documentation
 
 
 ---
